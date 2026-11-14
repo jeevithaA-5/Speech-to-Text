@@ -10,8 +10,6 @@
   - Download converted text as PDF
 - 📋 Copy to Clipboard: Copy converted text with a single click.
 - 🔄 Clear Text: Remove the converted content instantly.
-- 📊 Word and Character Count: Track the number of words and characters.
-- 🔊 Text-to-Speech: Listen to the converted text using speech synthesis.
 - 🎨 Dark/Light Mode: Switch between dark and light themes.
 - ⏱️ Recording Status: Display microphone and recording status.
 - 🖼️ Responsive UI: Clean, minimal interface suitable for desktop and mobile devices.
