@@ -24,8 +24,8 @@ Speech-to-Text/
 ├── script.js
 │
 └── README.md
-## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Speech Recognition**: Web Speech API
 - **Speech Output**: Web Speech Synthesis API
