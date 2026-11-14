@@ -17,9 +17,10 @@
 ## 📸 Demo
 <img width="1858" height="845" alt="Screenshot 2026-11-14 152430" src="https://github.com/user-attachments/assets/b17db6fb-0e6b-4846-9cc0-9abbef068c29" />
 ##📦 Speech-to-Text/
-├── index.html          # Main HTML file
-├── style.css           # Custom CSS styling
-├── script.js           # Editor functionality (JavaScript)
-├── images/             # Icons or logos (if any)
-├── README.md
-└── requirements.txt    # (Only needed if using Flask backend or deployment)
+Speech-to-Text/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+└── README.md
