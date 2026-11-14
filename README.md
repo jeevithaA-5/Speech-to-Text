@@ -19,8 +19,16 @@
 ##📦 Speech-to-Text/
 Speech-to-Text/
 │
-├── index.html
+├──index.html
 ├── style.css
 ├── script.js
 │
 └── README.md
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Speech Recognition**: Web Speech API
+- **Speech Output**: Web Speech Synthesis API
+- **Microphone Access**: Browser Media Permissions
+- **Export**: TXT and PDF Download
+
